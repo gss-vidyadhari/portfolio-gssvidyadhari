@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-gssvidyadhari/static/css/main.9db17e16.css",
+    "main.js": "/portfolio-gssvidyadhari/static/js/main.ea513db0.js",
+    "static/media/avatarME.svg": "/portfolio-gssvidyadhari/static/media/avatarME.c02127893471573d8b06b39a253b2798.svg",
+    "static/media/AWS1.svg": "/portfolio-gssvidyadhari/static/media/AWS1.209fea637c21b229856b5f0c006ddd86.svg",
+    "static/media/REDHAT3.svg": "/portfolio-gssvidyadhari/static/media/REDHAT3.faf6e8a63821d725cce5d9b91bc2caf4.svg",
+    "static/media/epam1.svg": "/portfolio-gssvidyadhari/static/media/epam1.4af431df84abc8ffc5f438686021489a.svg",
+    "static/media/Oracle_logo1.svg": "/portfolio-gssvidyadhari/static/media/Oracle_logo1.8fa767ceacdb2064bf07ec57a20bf318.svg",
+    "static/media/gssvlogo.svg": "/portfolio-gssvidyadhari/static/media/gssvlogo.c5d6c33053b3cfa65aaad1f8073fbe25.svg",
+    "static/media/dots-bg.svg": "/portfolio-gssvidyadhari/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/portfolio-gssvidyadhari/index.html",
+    "main.9db17e16.css.map": "/portfolio-gssvidyadhari/static/css/main.9db17e16.css.map",
+    "main.ea513db0.js.map": "/portfolio-gssvidyadhari/static/js/main.ea513db0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9db17e16.css",
+    "static/js/main.ea513db0.js"
+  ]
+}
